@@ -1,0 +1,9 @@
+I'm really very excited about AI and neural network's. Not only artificial, 
+but I also very intersting about biolgical neural network and our brain.
+So, I've decided to spend free time developing and implementing my own neural network from scratch.
+I've a goal to implement it by using very low level language as C++ and implement all those stuff, like
+batchnorm, backprop, weight Xavier init., etc.
+
+Also in the future, I plan to speed up the neural network
+by implementing the Strassen algorithm for matrix products
+and using multithreaded programming.
